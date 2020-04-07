@@ -82,7 +82,7 @@ For `n=1000`, O(n^2) more than a 300 times less efficient!
 
 ## References
 - [The Definitive Guide To Time Complexity For Ruby Developers](https://www.rubyguides.com/2018/03/time-complexity-for-ruby-developers/)
-- [Understanding Time Complexity with Simple Examples](https://www.geeksforgeeks.org/understanding-time-complexity-simple-examples/)
+- [Big O explanation in plain English](https://stackoverflow.com/questions/487258/what-is-a-plain-english-explanation-of-big-o-notation)
 - [BigO cheatsheet](https://www.bigocheatsheet.com/)
 - [Time complexity on Wikipedia](https://en.wikipedia.org/wiki/Time_complexity)
 - [Quick sort](https://en.wikipedia.org/wiki/Quicksort)
